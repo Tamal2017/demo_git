@@ -1,2 +1,2 @@
-	alert("Hello world from Test !");
+	alert("Hello test !");
 
